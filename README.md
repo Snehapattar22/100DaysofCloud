@@ -6,8 +6,9 @@ Welcome to the 100 Days of Cloud Series! 🚀 In this comprehensive learning jou
 Cloud computing has revolutionized the way we build, deploy, and manage applications. The 100 Days of Cloud Series is a structured approach to help you master key concepts, tools, and services in the cloud ecosystem. Each day, we'll dive into a specific topic, providing hands-on tutorials, explanations, and practical insights.
 
 ## Getting Started
-# 100 Days of Cloud Series Schedule
-# Day 1: Learnt about how to create azure student account and how to redeem the 100$ credits in azure.
+# 100 Days of Cloud Series
+
+**Day 1: Learnt about how to create azure student account and how to redeem the 100$ credits in azure.
 
 **Day 2: Azure Budgets and Cost Management** <ComingSoon>
 - Understand effective cost management in Azure.
