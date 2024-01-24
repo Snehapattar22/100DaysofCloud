@@ -8,7 +8,7 @@ Cloud computing has revolutionized the way we build, deploy, and manage applicat
 ## Getting Started
 # 100 Days of Cloud Series
 
-## Day 1: Learnt about how to create azure student account and how to redeem the 100$ credits in azure.
+## Day 1: Learnt about how to signup into azure student account and how to redeem the 100$ credits in azure for further learning.
 
 **Day 2: Azure Budgets and Cost Management** <ComingSoon>
 - Understand effective cost management in Azure.
