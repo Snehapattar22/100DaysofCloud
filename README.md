@@ -7,8 +7,7 @@ Cloud computing has revolutionized the way we build, deploy, and manage applicat
 
 ## Getting Started
 # 100 Days of Cloud Series Schedule
-
-## Azure Fundamentals (Day 2-18) 
+#Day 1: Learnt about how to create azure student account and how to redeem the 100$ credits in azure.
 
 **Day 2: Azure Budgets and Cost Management** <ComingSoon>
 - Understand effective cost management in Azure.
